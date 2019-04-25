@@ -1,4 +1,4 @@
-package com.eihror.glideexample
+package com.eihror.uilexample
 
 import org.junit.Test
 
